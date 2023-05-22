@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umar7799
 - 👀 I’m interested in Javascript based frameworks
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript-based technologies such as React, typeScript
 - 💞️ I’m looking for an opportunity as junior frontend developer))
 - 📫 How to reach me www.behruz00@mail.ru
 
